@@ -1,6 +1,7 @@
 {
   "name": "test-react",
   "version": "0.1.0",
+  "homepage": "test-react",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
